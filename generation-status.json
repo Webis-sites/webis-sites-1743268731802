@@ -1,0 +1,77 @@
+{
+  "projectDir": "מכון-כושר-ביתא-1743268731802",
+  "status": {
+    "totalComponents": 10,
+    "completedComponents": 10,
+    "failedComponents": 0,
+    "progress": 100
+  },
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "completed",
+      "description": "Main hero section with headline, subheadline, and call to action button"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "completed",
+      "description": "Section highlighting the gym's experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "completed",
+      "description": "Showcase of the gym's professional services"
+    },
+    {
+      "name": "PortfolioGallery",
+      "type": "portfolio",
+      "status": "completed",
+      "description": "Gallery showcasing the gym's facilities and success stories"
+    },
+    {
+      "name": "TrainersTeam",
+      "type": "team",
+      "status": "completed",
+      "description": "Section highlighting the professional trainers"
+    },
+    {
+      "name": "FacilitiesFeatures",
+      "type": "features",
+      "status": "completed",
+      "description": "Highlights of the gym's facilities and special features"
+    },
+    {
+      "name": "MembershipPlans",
+      "type": "pricing",
+      "status": "completed",
+      "description": "Different membership options and pricing"
+    },
+    {
+      "name": "LocationMap",
+      "type": "map",
+      "status": "completed",
+      "description": "Map showing the gym's location"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "completed",
+      "description": "Contact form for inquiries"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "completed",
+      "description": "Footer with important links and information"
+    }
+  ],
+  "tokenUsage": {
+    "totalInputTokens": 10526,
+    "totalOutputTokens": 21044,
+    "totalTokens": 31570,
+    "requests": 9
+  }
+}
